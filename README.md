@@ -19,7 +19,6 @@ Challenges:
 ![Step 1](step-1.png?raw=true "Step 1")	
 
 ### Step 2 - GKE Secrets
-![Step 2](step-2.png?raw=true "Step 2")	
 ![Step 2.2](step-22.png?raw=true "Step 2.2")	
 
 ### Step 3 - Env variables
